@@ -1,0 +1,4 @@
+Lo! After examining 17438 combinations, it was found that the sum of (1359, 661) == 2020
+The product of (1359, 661) = 898299
+Lo! After examining 1086420 combinations, it was found that the sum of (354, 1369, 297) == 2020
+The product of (354, 1369, 297) = 143933922
